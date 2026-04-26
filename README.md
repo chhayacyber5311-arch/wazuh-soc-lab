@@ -36,7 +36,7 @@ Screenshots-
 
 Project Report-
 You can view the detailed case study here:
-wazuh-case-study.pdf
+[wazuh-case-study.pdf](https://github.com/chhayacyber5311-arch/wazuh-soc-lab/blob/c8608a623b4859d60c20c920d0b2285c56dcbf01/wazuh-case-study.pdf)
 
 Learning Outcome-
 1. Hands-on experience with SIEM tools
