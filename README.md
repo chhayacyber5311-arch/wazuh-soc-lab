@@ -34,8 +34,9 @@ Screenshots-
 <img width="1920" height="1080" alt="ss5" src="https://github.com/user-attachments/assets/33e41504-b52b-43f1-9183-23c46d9f1d6b" />
 
 
-
-
+Project Report-
+You can view the detailed case study here:
+wazuh-case-study.pdf
 
 Learning Outcome-
 1. Hands-on experience with SIEM tools
